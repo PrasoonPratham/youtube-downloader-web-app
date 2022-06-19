@@ -2,6 +2,8 @@ import type { NextPage } from "next";
 import Head from "next/head";
 
 const Home: NextPage = () => {
+  
+
   return (
     <>
       <div className="min-h-screen bg-gradient-to-b from-red-600 via-red-600 to-black flex flex-col justify-center sm:py-12">
